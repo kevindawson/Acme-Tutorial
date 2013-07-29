@@ -15,7 +15,7 @@ __END__
 
 =head1 NAME
 
-Acme::Tutorial - Blah blah blah
+Acme::Tutorial - Just testing Milla, it's cool
 
 =head1 SYNOPSIS
 
