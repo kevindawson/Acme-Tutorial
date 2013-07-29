@@ -1,6 +1,6 @@
 # NAME
 
-Acme::Tutorial - Blah blah blah
+Acme::Tutorial - Just testing Milla, it's cool
 
 # SYNOPSIS
 

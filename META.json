@@ -1,5 +1,5 @@
 {
-   "abstract" : "Blah blah blah",
+   "abstract" : "Just testing Milla, it's cool",
    "author" : [
       "Kevin Dawson <bowtie@cpan.org>"
    ],
@@ -46,7 +46,18 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/kevindawson/Acme-Tutorial/issues"
+      },
+      "homepage" : "https://github.com/kevindawson/Acme-Tutorial",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/kevindawson/Acme-Tutorial.git",
+         "web" : "https://github.com/kevindawson/Acme-Tutorial"
+      }
+   },
+   "version" : "0.02",
    "x_contributors" : [
       "bowtie <bowtie@cpan.org>"
    ]
